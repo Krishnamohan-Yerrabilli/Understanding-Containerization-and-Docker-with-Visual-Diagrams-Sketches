@@ -3,7 +3,8 @@
 Welcome to the "Understanding Containerization and Docker with Visual Diagrams - Sketches" repository! This repository serves as a collection of drawing sketches that I am currently working on for my book project titled "Understanding Containerization and Docker with Visual Diagrams."
 
 
-![Understanding Containerization and Docker (1)](https://github.com/Krishnamohan-Yerrabilli/Understanding-Containerization-and-Docker-with-Visual-Diagrams-Sketches/assets/58173938/8d38c461-26db-45b9-8c2a-c2a665e1f19f)
+![Understanding Containerization and Docker (2)](https://github.com/Krishnamohan-Yerrabilli/Understanding-Containerization-and-Docker-with-Visual-Diagrams-Sketches/assets/58173938/ece3d3c4-79f5-4d6c-afb7-bf7b7172317c)
+
 
 
 ## Introduction
