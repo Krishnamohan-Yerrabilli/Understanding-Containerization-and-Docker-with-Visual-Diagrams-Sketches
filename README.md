@@ -28,6 +28,6 @@ The sketches in this repository are provided under the [Creative Commons Attribu
 
 ## Contact
 
-If you have any questions or would like to get in touch regarding the sketches or the book project, you can reach me at [your-email@example.com](mailto:mailtomohanse@gmail.com).
+If you have any questions or would like to get in touch regarding the sketches or the book project, you can reach me at [mailtomohanse@gmail.com](mailto:mailtomohanse@gmail.com).
 
 Thank you for your interest in the "Understanding Containerization and Docker with Visual Diagrams - Sketches" repository. I hope these visual representations contribute to a clearer understanding of containerization and Docker concepts in the book.
