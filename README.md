@@ -2,6 +2,8 @@
 
 Welcome to the "Understanding Containerization and Docker with Visual Diagrams - Sketches" repository! This repository serves as a collection of drawing sketches that I am currently working on for my book project titled "Understanding Containerization and Docker with Visual Diagrams."
 
+![Understanding Containerization and Docker (4)](https://github.com/Krishnamohan-Yerrabilli/Understanding-Containerization-and-Docker-with-Visual-Diagrams-Sketches/assets/58173938/87d3df71-1085-4a61-a524-e467e8951086)
+
 ## Introduction
 
 The goal of this repository is to provide visual diagrams and illustrations that enhance the understanding of containerization concepts and Docker technologies. The sketches contained here are intended to complement the written content of the book and convey complex ideas in a more visual and accessible manner.
